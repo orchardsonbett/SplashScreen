@@ -1,0 +1,2 @@
+# SplashScreen
+Android splashscreen project
